@@ -1,0 +1,21 @@
+help play
+play run 9000
+run 9000
+reload
+help play
+dependencies
+reload
+dependencies
+quit
+exit
+dependencies
+run 9000
+help play
+dependencies
+play cukes
+cukes
+exit
+hel
+help
+help play
+run 9000
